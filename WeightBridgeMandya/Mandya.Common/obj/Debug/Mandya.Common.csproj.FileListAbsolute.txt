@@ -1,0 +1,192 @@
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll.config
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.pdb
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\Blun.ConfigurationManager.dll
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.dll
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Design.dll
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.dll
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Fonts.dll
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.xml
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CoreCompileInputs.cache
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CopyComplete
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.dll
+D:\Chirag\Development Project\Mandya WeightBridge Updated\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.pdb
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll.config
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.pdb
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Blun.ConfigurationManager.dll
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.dll
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Design.dll
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.dll
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Fonts.dll
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.xml
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CoreCompileInputs.cache
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CopyComplete
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.dll
+D:\Chirag\Development Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.pdb
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll.config
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.pdb
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Blun.ConfigurationManager.dll
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.dll
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Design.dll
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.dll
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Fonts.dll
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.xml
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.AssemblyReference.cache
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CoreCompileInputs.cache
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CopyComplete
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.dll
+D:\Chirag\Development Project\Mandya Project\Mandya WeightBridge\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.pdb
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll.config
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.pdb
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\Blun.ConfigurationManager.dll
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.dll
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Design.dll
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.dll
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Fonts.dll
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.xml
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CoreCompileInputs.cache
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CopyComplete
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.dll
+D:\01. Project\03. Mandya Dairy\01. Code\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.pdb
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll.config
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.pdb
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\Blun.ConfigurationManager.dll
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.dll
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Design.dll
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.dll
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Fonts.dll
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.xml
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.AssemblyReference.cache
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CoreCompileInputs.cache
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CopyComplete
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.dll
+D:\Support Task\Mandya Dairy\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.pdb
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll.config
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.pdb
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\Blun.ConfigurationManager.dll
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.dll
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Design.dll
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.dll
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Fonts.dll
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.xml
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.AssemblyReference.cache
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CoreCompileInputs.cache
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CopyComplete
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.dll
+E:\Support Task\Mandya Dairy\Original\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.pdb
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll.config
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.pdb
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\Blun.ConfigurationManager.dll
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.dll
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Design.dll
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.dll
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Fonts.dll
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.xml
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CoreCompileInputs.cache
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CopyComplete
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.dll
+E:\Support Task\Mandya Dairy\Modified\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.pdb
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll.config
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.pdb
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\Blun.ConfigurationManager.dll
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.dll
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Design.dll
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.dll
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Fonts.dll
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.xml
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CoreCompileInputs.cache
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CopyComplete
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.dll
+E:\Support Task\Mandya Dairy\Modified\21-03-2024\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.pdb
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll.config
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.dll
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\Mandya.Common.pdb
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\Blun.ConfigurationManager.dll
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.dll
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Design.dll
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.dll
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\MetroFramework.Fonts.dll
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\bin\Debug\log4net.xml
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CoreCompileInputs.cache
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.csproj.CopyComplete
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.dll
+E:\Support Task\Mandya Dairy\Modified\28-03-2024 (Final)\WeightBridgeMandya\Mandya.Common\obj\Debug\Mandya.Common.pdb
